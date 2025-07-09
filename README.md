@@ -31,7 +31,7 @@ A simple and responsive weather forecast app built using **React (Vite)** and **
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/ashrifrihan/Weather-app
 cd weather-app
 ```
 
